@@ -21,7 +21,7 @@ import javax.annotation.Resource;
 import org.springframework.stereotype.Service;
 
 /**
- * 게시물 관리를 위한 서비스 구현 클래스
+ * 게시물 관리를 위한 서비스 구현 클래스1
  * @author 공통 서비스 개발팀 한성곤
  * @since 2009.03.19
  * @version 1.0
